@@ -42,3 +42,16 @@ body
 {
     padding: 1em;
 }
+
+.footer {
+    border: blue solid 1px;
+    background-color: rgb(159, 159, 204);
+    margin: 10px;
+    padding: 0 0 0 20px;
+    font-size: 20px;
+    font-family:"arial";
+    font-weight: bold;
+    color: rgb(7, 99, 148);
+    text-align: center;
+
+}
