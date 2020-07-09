@@ -44,14 +44,15 @@ body
 }
 
 .footer {
-    border: blue solid 1px;
-    background-color: rgb(159, 159, 204);
+    border: rgb(158, 9, 9) solid 1px;
+    background-color: rgb(113, 184, 228);
     margin: 10px;
     padding: 0 0 0 20px;
-    font-size: 20px;
+    font-size: 30px;
     font-family:"arial";
     font-weight: bold;
-    color: rgb(7, 99, 148);
+    color: rgb(9, 107, 57);
     text-align: center;
+    border-radius: 5px;
 
 }
